@@ -5,7 +5,7 @@ OBJECT_SHARED Models/Airport/ils.xml 91.389614 53.749533 247.35 154.76
 OBJECT_SHARED Models/Communications/vordme_1.xml 91.385 53.745 247.53 180
 OBJECT_SHARED Models/Airport/marker.ac 91.35 53.698333 250.03 180
 OBJECT_SHARED Models/Airport/marker.ac 91.368333 53.72 247.85 180
-OBJECT_SHARED Models/Airport/localizer.xml 91.372692 53.723878 246.76 294.67
+OBJECT_SHARED Models/Airport/localizer.xml 91.372692 53.723878 246.76 154.76
 OBJECT_SHARED Models/Residential/smallhouse_sweden.ac 91.38312 53.7417 249.56 334
 OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml 91.3944279 53.7442419 245.98 0
 OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml 91.3950443 53.7451264 245.89 0
